@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467045905955",
+    "firebase_url": "https://portfuckinghard-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "portfuckinghard",
+    "storage_bucket": "portfuckinghard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467045905955:android:3c773a90f1c80c04a02396",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TESTLOGINSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467045905955-2q6c2irkff8lt9dk91rifgt0kgqdf3qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEO9JQShABMEBP0gskk5NmdWGLbYqSLZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467045905955-2q6c2irkff8lt9dk91rifgt0kgqdf3qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
